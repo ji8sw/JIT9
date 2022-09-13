@@ -1,0 +1,15 @@
+Welcome to JIT9, a browser made in 1 hour
+
+SIMPLISTIC DESIGN:
+Only features the buttons you need most
+
+MINIMAL PERFORMANCE USAGE:
+~200MB of RAM, 0% CPU (3.20GHZ/6 Cores), >500KBs of space
+1/3rd of OperaGX
+
+CONVENIENT:
+Opens in one click
+No figeting
+No login
+No search data is sent to me
+No advertising
